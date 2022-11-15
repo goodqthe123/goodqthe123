@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am seeking a competitive and challenging environment where I can serve your
+organization and establish a career for myself.
+Comfortable: HTML, CSS, JavaScript, ES6, React, Bootstrap
+Familiar: Redux, React Bootstrap, React Native
+Tools: Git, VS Code, Chrome Dev Tools
 
 <!--
 **goodqthe123/goodqthe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
