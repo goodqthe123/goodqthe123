@@ -1,10 +1,10 @@
 ### Software engineer | Frontend engineer | Web developer | User Experience UX/UI
 
-I am seeking a competitive and challenging environment where I can serve your
-organization and establish a career for myself.
-Comfortable: HTML, CSS, JavaScript, ES6, React, Bootstrap
-Familiar: Redux, React Bootstrap, React Native
-Tools: Git, VS Code, Chrome Dev Tools
+I am seeking a competitive and challenging environment where I can serve your\n
+organization and establish a career for myself.\n
+Comfortable: HTML, CSS, JavaScript, ES6, React, Bootstrap\n
+Familiar: Redux, React Bootstrap, React Native\n
+Tools: Git, VS Code, Chrome Dev Tools\n
 
 <!--
 **goodqthe123/goodqthe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
